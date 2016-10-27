@@ -6,3 +6,4 @@ dd=7;
 
 dd='poo'
 var wo='';
+var niu="nishniup"
