@@ -3,3 +3,5 @@
  */
 var dd=00;
 dd=7;
+
+dd='poo'
