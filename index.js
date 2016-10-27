@@ -6,4 +6,5 @@ dd=7;
 
 dd='poo'
 var wo='';
-var niu="nishniup"
+var niu="nishniup";
+var wo="woshi xiugai   bug de "
