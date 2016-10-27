@@ -6,6 +6,7 @@ dd=7;
 
 dd='poo'
 var wo='';
-var niu ="woshimaster";
-var zhen=9;
+
+var niu="nishniup";
+var wo="woshi xiugai   bug de "
 
