@@ -1,0 +1,10 @@
+在IPTV EPG制作过程中的一些个人总结
+1.CSS属性定义
+   如果使用CSS属性定义，推荐使用嵌入样式表的方式。即在HTML文档中的BODY标签之前定义<style type="text/css">...</style>。CSS属性定义的另外两种方式都不是很适合在IPTV领域使用：
+2.js的支持规范
+   http://wenku.baidu.com/view/0c42536802768e9951e7386f.html?from=search
+3.css的支持规范
+   http://wenku.baidu.com/view/6a580d621711cc7931b7166c.html?from=search
+4.小窗口视频播放
+   http://wenku.baidu.com/view/08157b04bed5b9f3f90f1c16.html?from=search
+
